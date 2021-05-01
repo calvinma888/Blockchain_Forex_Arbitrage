@@ -1,4 +1,4 @@
-# WSB_NLP_DeepLearning
+# Blockchain_Forex_Arbitrage
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
