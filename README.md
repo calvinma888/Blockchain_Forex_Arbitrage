@@ -1,4 +1,4 @@
-# Blockchain_Forex_Arbitrage
+# WSB_NLP_DeepLearning
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -18,75 +18,52 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+We analyzed the pattern for crypto price, and quantify the market impact, which can be used to measure transaction costs. Then we use the Garch model to predict cryptocurrency volatility.
+For the foreign exchange trading strategy, we converted the amount of USD a vailable to foreign currencies, and then used the foreign currency to purchase Bi tcoin taking into consideration of all the fees including exchange fees, market i mpact fees, and various other fees, and then we held the Bitcoin for a certain nu mber of days, after which all of the Bitcoin was sold in the foreign exchange, an d after paying for all of the fees in the selling transaction, the foreign curren cy is converted back into USD. In a two month period, taking into account of all the fees, the returns, which varied from 3.35% to 5.38% across the various foreig n exchanges, greatly exceed the flat annual fee of $95 needed to maintain the cre dit card that offers fee-less foreign currency exchanges. This shows that utilizi ng foreign exchanges and foreign currencies to purchase and sell Bitcoins does pr ovide opportunities for arbitrage.
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* []()Python
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+This is a list of packages that need to be installed before the notebook can be run.
+* sklearn
+* quandl
+* BlockChair
+* yFinance
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* scipy
+
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
+Clone the repo: https://github.com/calvinma888/Blockchain_Forex_Arbitrage.git
+   
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
+Run with Jupyter Notebook
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
+
+Calvin (Yu chien) Ma
