@@ -31,7 +31,7 @@ For the foreign exchange trading strategy, we converted the amount of USD a vail
 ### Built With
 
 * []()Python
-
+ 
 
 <!-- GETTING STARTED -->
 ## Getting Started
