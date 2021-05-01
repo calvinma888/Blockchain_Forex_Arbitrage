@@ -1,4 +1,4 @@
-# Blockchain_Forex_Arbitrage
+# Bitcoin Cryptocurrency Exchange and 13 Foreign Exchange Arbitrage
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
